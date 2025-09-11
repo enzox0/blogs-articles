@@ -48,6 +48,10 @@ Make sure main points to your entry file:
   "license": "MIT"
 }
 ```
+2. Open VS code to edit:
+```bash
+code .
+```
 
 ---
 ## 🧪 Step 4: Test Locally
@@ -80,6 +84,9 @@ console.log(greet("Bogart")); // Hello, Bogart! 👋
 ```bash
 npm login
 ```
+This will redirect to NPM login page:
+<img width="1888" height="919" alt="image" src="https://github.com/user-attachments/assets/f3757eb6-1ae0-4026-a355-6aedfb79e02f" />
+
 
 Publish:
 ```bash
@@ -111,6 +118,78 @@ If you want to ship TypeScript/ESM/CJS support:
   "build": "tsup src/index.ts --format cjs,esm --dts"
 }
 ```
+
+# GitHub Setup
+Once you have your NPM library ready, connecting it to GitHub is a smart move—it allows version control, collaboration, and CI/CD integration.
+
+---
+## 1️⃣ Create a GitHub Repository
+1. Go to GitHub and click New Repository.
+2. Name your repository (e.g., my-library), add a description.
+3. Keep it public (if open-source) or private.
+4. Do not initialize with README, .gitignore, or license (do it locally).
+
+---
+## 2️⃣ Initialize Git in Your Project
+Inside your project folder:
+```bash
+git init
+```
+This creates a local Git repository.
+
+---
+## 3️⃣ Connect Local Repo to GitHub
+After creating the GitHub repo, you’ll see instructions like:
+
+```bash
+git remote add origin https://github.com/username/you-library.git
+git branch -M main
+git push -u origin main
+```
+Explanation:
+- git remote add origin ... → links local repo to GitHub.
+- git branch -M main → ensures the main branch is named main.
+- git push -u origin main → pushes your code to GitHub.
+
+---
+## 4️⃣ Add, Commit, and Push Code
+```bash
+git add .
+git commit -m "Initial commit"
+git push
+```
+
+---
+## 5️⃣ Optional: Add .gitignore
+Typical .gitignore for Node.js:
+```bash
+node_modules
+dist
+.env
+.DS_Store
+```
+
+---
+## 6️⃣ Optional: Connect to NPM
+If you want GitHub to be linked in your package.json:
+```bash
+{
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/my-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/username/my-library/issues"
+  },
+  "homepage": "https://github.com/username/my-library#readme"
+}
+```
+This helps users find your repo when installing from NPM.
+
+---
+## 7️⃣ Optional: Auto-Publish on Push
+You can set up GitHub Actions to automatically build and publish your library to NPM when you push a new version tag.
+
 
 
 
