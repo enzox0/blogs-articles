@@ -28,6 +28,7 @@ This repo serves as an organized space for my written work. Whether you’re a d
 ## Contributing
 
 Got feedback or ideas? Contributions are always welcome! Open an issue or start a discussion.
+
 ---
 
 ## Connect With Me  
