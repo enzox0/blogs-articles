@@ -1,6 +1,7 @@
 # My Blogs & Articles
 
 Welcome to my collection of blogs and articles!
+
 Here, I write about topics that inspire me, challenge me, and help others grow. Each post is crafted with the goal of sharing knowledge, insights, and practical tips that readers can apply in their personal or professional journey.
 
 ---
