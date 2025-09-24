@@ -15,6 +15,7 @@ Tips & Best Practices – Actionable advice you can apply right away.
 ## Why This Repository?
 
 This repo serves as an organized space for my written work. Whether you’re a developer, learner, or just someone curious, you’ll find value in these posts. Feel free to explore, learn, and contribute ideas.
+
 ---
 
 ## Articles Index
