@@ -6,10 +6,10 @@ Here, I write about topics that inspire me, challenge me, and help others grow. 
 ---
 ## What You’ll Find
 
-Guides & Tutorials – Step-by-step resources to help you learn faster.
-Personal Insights – Reflections and experiences worth sharing.
-Trending Topics – Thoughts on current trends, tools, and innovations.
-Tips & Best Practices – Actionable advice you can apply right away.
+- **Guides & Tutorials** – Step-by-step resources to help you learn faster.  
+- **Personal Insights** – Reflections and experiences worth sharing.  
+- **Trending Topics** – Thoughts on current trends, tools, and innovations.  
+- **Tips & Best Practices** – Actionable advice you can apply right away.  
 
 ---
 ## Why This Repository?
