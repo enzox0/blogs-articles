@@ -33,19 +33,16 @@ Got feedback or ideas? Contributions are always welcome! Open an issue or start 
 ## Connect With Me  
 
 <p align="left">
-  <a href="https://github.com/YourGitHubProfile" target="_blank">
+  <a href="[https://github.com/YourGitHubProfile](https://github.com/enzox0)" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+  <a href="[https://linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/renz-siguenza-786596378/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YourTwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://facebook.com/YourFacebook" target="_blank">
+  <a href="https://facebook.com/renz.siguenza.03" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:yourname@email.com" target="_blank">
+  <a href="mailto:renzsiguenza0000@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
