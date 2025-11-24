@@ -3,6 +3,9 @@ title: Debugging Best Practices
 description: Practical techniques for diagnosing frontend and backend defects efficiently.
 ---
 
+**By:** Renz Siguenza  
+**Date:** November 24, 2025
+
 ## Core Principles
 
 - Reproduce the issue in a controlled environment before changing code.

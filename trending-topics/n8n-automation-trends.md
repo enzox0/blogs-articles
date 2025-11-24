@@ -1,5 +1,8 @@
 ## N8N Automation Trends to Watch
 
+**By:** Renz Siguenza  
+**Date:** November 24, 2025
+
 N8N continues to gain traction as teams look for open, self-hostable workflow automation. Here are the most active trends shaping how operators, marketers, and engineers build with N8N right now.
 
 ### 1. AI-Augmented Workflows

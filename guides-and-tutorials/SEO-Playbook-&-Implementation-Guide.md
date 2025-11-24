@@ -1,5 +1,8 @@
 # SEO Playbook & Implementation Guide
 
+**By:** Renz Siguenza  
+**Date:** November 24, 2025
+
 This document outlines an end-to-end SEO process you can apply to portfolio-like sites, SaaS products, or marketing pages. It breaks the workflow into clear phases, lists deliverables for each, and provides implementation checklists so you can turn strategy into deployment-ready tasks.
 
 ---

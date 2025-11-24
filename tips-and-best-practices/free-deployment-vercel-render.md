@@ -1,5 +1,8 @@
 # Free Deployment Best Practices (Vercel & Render)
 
+**By:** Renz Siguenza  
+**Date:** November 24, 2025
+
 ## Plan Your Project Footprint
 - Audit runtime, bandwidth, and storage needs before deploying; free plans have tight quotas.
 - Keep build artifacts small (tree-shake, compress assets) to stay within upload limits.

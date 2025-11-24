@@ -1,5 +1,8 @@
 # DevOps Foundations & Career Roadmap
 
+**By:** Renz Siguenza  
+**Date:** November 24, 2025
+
 > A practical field guide to understanding DevOps, tooling types, day-to-day workflows, and how to grow into a DevOps Engineer role.
 
 ---

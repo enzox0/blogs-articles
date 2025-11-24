@@ -1,6 +1,9 @@
 # Build-Your-Own-NPM-Library
 Learn how to create, package, and publish your own NPM library. This guide covers project setup, writing reusable code, managing dependencies, and publishing to NPM—perfect for beginners and experienced developers alike.
 
+**By:** Renz Siguenza  
+**Date:** September 11, 2025
+
 ---
 ## 🛠 Step 1: Setup Your Project
 1. Create a new folder for your library:

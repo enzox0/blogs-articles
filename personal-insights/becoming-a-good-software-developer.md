@@ -1,5 +1,8 @@
 ## Becoming a Good Software Developer
 
+**By:** Renz Siguenza  
+**Date:** November 24, 2025
+
 Great developers are not defined by the number of languages they know but by the way they approach problems, people, and learning. Build habits that compound over years, not hacks that only get you through the next sprint.
 
 ### Mindset and Mastery
